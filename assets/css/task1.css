@@ -1,0 +1,96 @@
+.card-background {
+    text-align: center;
+    border-radius: 20px;
+    border: 0;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-background .card-down {
+    
+    margin-top: 20px;
+}
+
+.card-background img {
+    width: 268px;
+    border-radius: 20px;
+}
+
+.card-background .img3{
+    width: 183px;
+    margin-left: 59px;
+}
+
+.card-background .img4{
+    width: 232px;
+    margin-left: 25px;
+}
+
+
+
+.card1 .card-down{
+    background-color: #5656f5;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.card2 .card-down{
+    background-color: #5e288f;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.card3 .card-down{
+    background-color: black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.card4 .card-down{
+    background-color: orange;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.card-down a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.star-icon {
+    color: gold;
+    font-size: 25px;
+}
+
+.card-background .left i:last-child {
+    color: black;
+}
+
+.card-background .second i:nth-child(4){
+    color: black;
+}
+
+.card-background .second i:nth-child(5){
+    color: black;
+}
+
+.card-background .ptron-img{
+
+    width: 232px;
+    margin-left: 25px
+}
+
+h5{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+p{
+color: rgb(160, 160, 156);
+}
+
+
+
+
+
